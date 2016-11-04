@@ -1,0 +1,19 @@
+{
+  "name": "svg-parse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "fs": "0.0.1-security",
+    "optimist": "^0.6.1",
+    "svgson": "^2.0.3",
+    "xmldom": "^0.1.22"
+  }
+}
